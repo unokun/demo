@@ -1,0 +1,4 @@
+select
+	ipaddress
+from
+	whitelists;
